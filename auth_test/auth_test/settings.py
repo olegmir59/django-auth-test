@@ -122,4 +122,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 # Auth
-AUTH_USER_MODEL = 'main.User'
+AUTH_USER_MODEL = 'main.CustomUser'
